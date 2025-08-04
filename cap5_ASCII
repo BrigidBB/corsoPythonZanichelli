@@ -1,0 +1,3 @@
+for num in range(55296):
+    print("il carattere ASCII numero", num, "è", chr(num))
+          
